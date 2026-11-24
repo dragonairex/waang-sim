@@ -206,7 +206,7 @@ Name: 吸拳
 - Posture: Similar to [吸] - Both hands in form of fists near the middle of your body, keep 1 fist (palm face down) above the other (palm face up) with a small gap, like holding a ball.
 
 ## Resolve Attacks
-If a player was targeted by another player with an attack, check the attacker and the target player checks of their status and their moves to see a knock-out is issued. 
+If a player was targeted by another player with an attack, check the attacker and the target player checks of their status and their moves to see a knock-out is resolved. 
 ### A. Successful use of an attack
 - An attack succeeds if the attacker meets all 3 conditions:
   1. Has enough held energy to pay the attack cost.
