@@ -15,7 +15,7 @@
 - If only 2 players remain, face each other. Put your palms on top of or below the other player's opposite palm.
 - Every player starts at 0 energy[氣].
 - Every player starts at 1 life.
-- Every player starts at Ground([地面], 0) level.
+- Every player starts at Ground([地面], level 0).
 
 ### Playing
 Everyone syncs their rhythm. This game is a rhythmic battle.
@@ -151,7 +151,7 @@ Non-attack moves cost 0 energy.
 
 Name: 超儲 (Alias: 超級儲氣/超/儲)
 - Effect:
-  - +1 energy to your held energy.
+  - +1 energy[氣] to your held energy.
   - [超儲] is an important move. Use it to gather held energy!
 - Posture: Place both fists flat near your body at each side of your waist with palms facing up.
 
