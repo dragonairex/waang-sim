@@ -29,11 +29,11 @@ Everyone syncs their rhythm. This game is a rhythmic battle.
    - For an attack move, point the attack posture at 1 target player. An attack cannot target more than 1 player.
    - Move name and the posture must match. If they do not match, the move fails.
    - Verify you have enough energy to pay the attack cost. If you do not have enough energy, the move fails.
-3. Successfully using an attack on a turn means you successfully released an attack, regardless of if you get hit or even faint on the same turn. 
-4. Resolve hits and faints:
-   - A player faints if a successful attack hits them, is in range, and is not stopped by a valid defense or counter.
-   - A fainted player leaves the game and moves out of the circle.
-   - Surviving players next to fainted player(s) move closer to make a smaller circle and reform the palm-up and palm-down positions.
+3. Successfully using an attack on a turn means you successfully released an attack, regardless of if you get hit or knocked-out on the same turn. 
+4. Resolve hits and knock-outs:
+   - A player is knocked-out if a successful attack hits them, is in range, and is not stopped by a valid defense or counter.
+   - A knocked-out player leaves the game and moves out of the circle.
+   - Surviving players next to knocked-out player(s) move closer to make a smaller circle and reform the palm-up and palm-down positions.
 5. Start the next round with the remaining players after all attacks resolve.
 6. Continue rounds until 1 player remains in free-for-all, or only 1 team remains in a 2-team battle.
 
@@ -179,7 +179,7 @@ Name: 反
   - [反] cannot reflect Fist[拳] attacks.
   - You cannot reflect attacks that cost 8 energy or more.
   - If attacks of both Ha[波] and Fist[拳] types target you, only Ha[波] attacks reflect and Fist[拳] attacks hit you. 
-  - Attacker(s) faint when reflection succeeds.
+  - Attacker(s) are knocked-out when reflection succeeds.
 - Posture: Raise both hands in front of you with straight fingers pointing up and palms facing toward you.
 
 Name: 反拳
@@ -188,7 +188,7 @@ Name: 反拳
   - [反拳] cannot reflect Ha[波] attacks.
   - You cannot reflect attacks that cost 8 energy or more.
   - If attacks of both Ha[波] and Fist[拳] types target you, only Fist[拳] attacks reflect and Ha[波] attacks hit you.
-  - Attacker(s) faint when reflection succeeds.
+  - Attacker(s) are knocked-out when reflection succeeds.
 - Posture: Raise both hands in front of you in fists with palms facing toward you.
 
 Name: 吸
@@ -206,7 +206,7 @@ Name: 吸拳
 - Posture: Similar to [吸] - Both hands in form of fists near the middle of your body, keep 1 fist (palm face down) above the other (palm face up) with a small gap, like holding a ball.
 
 ## Resolve Attacks
-- If a player was attacked by another player, their status and moves are resolved to see if their defense stands
+If a player was targeted by another player with an attack, check the attacker and the target player checks of their status and their moves to see a knock-out is issued. 
 ### A. Successful use of an attack
 - An attack succeeds if the attacker meets all 3 conditions:
   1. Has enough held energy to pay the attack cost.
@@ -223,7 +223,7 @@ Name: 吸拳
 - If the target player uses an attack against a 3rd player (not the attacker), the target player has no guard and can be hit if in range.
 - If the target player also attacks the attacker, the two attacks collide, regardless of range:
   - If both attacks have the same energy cost, both cancel out. Both attacks count as successful and both players pay their energy costs.
-  - If 1 attack has a higher energy cost, that attack wins and the player with the lower-cost attack is hit (and faints).
+  - If 1 attack has a higher energy cost, that attack wins and the player with the lower-cost attack is hit (and gets knocked-out).
 
 ## Advanced Rules
 - In a 2-team battle where 1 team has 1 fewer player, before the game begins, 1 selected player on the smaller team can start with 2 lives (can withstand 1 attack) so both teams have the same total lives.
