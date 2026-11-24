@@ -1,5 +1,5 @@
 # 橫(橫閃)
-橫(橫閃) is an in-person multi-player battle game of the 2000's, "007入子彈"-style, designed by a group of primary school kids.
+橫(橫閃) is an in-person multi-player battle game from the 2000's, "007入子彈"-style, designed by a group of primary school kids.
 
 ## Rules
 - 2+ players.
@@ -60,13 +60,13 @@ Name: 上波
 - Type: Ha[波]
 - Energy: 1
 - Range: +1/-0 (Hits same level, as well as up 1 level)
-- Posture: Holds one fist out. Extend the index and middle fingers pointing up. 
+- Posture: Hold one fist out. Extend the index and middle fingers pointing up. 
 
 Name: 下波
 - Type:Ha[波]
 - Energy: 1
 - Range: +0/-1
-- Posture: Holds one fist out. Extend the index and middle fingers pointing down.
+- Posture: Hold one fist out. Extend the index and middle fingers pointing down.
 
 Name: 普昇
 - Type:Fist[拳]
@@ -84,13 +84,13 @@ Name: 上上波
 - Type: Ha[波]
 - Energy: 2
 - Range: +2/-0
-- Posture: Same as [上波] - Holds one fist out. Extend the index and middle fingers pointing up.
+- Posture: Same as [上波] - Hold one fist out. Extend the index and middle fingers pointing up.
 
 Name: 下下波
 - Type: Ha[波]
 - Energy: 2
 - Range: +0/-2
-- Posture: Same as [下波] - Holds one fist out. Extend the index and middle fingers pointing down.
+- Posture: Same as [下波] - Hold one fist out. Extend the index and middle fingers pointing down.
 
 Name: 真昇
 - Type: Fist[拳]
@@ -196,14 +196,14 @@ Name: 吸
   - Absorb all Ha[波] attacks that target you. 
   - Add the total energy cost of all absorbed attacks to your held energy.
   - [吸] cannot absorb Fist[拳] attacks. 
-- Posture: Both hands with straight fingers near the middle of your body, keep 1 hand (palm face down) above the other (palm face down) with a small gap, like holding a ball. 
+- Posture: Both hands with straight fingers near the middle of your body, keep 1 hand (palm face down) above the other (palm face up) with a small gap, like holding a ball. 
 
 Name: 吸拳
 - Effect:
   - Absorb all Fist[拳] attacks that target you.
   - Add the total energy cost of all absorbed attacks to your held energy.
   - [吸拳] cannot absorb Ha[波] attacks.
-- Posture: Similar to [吸] - Both hands in form of fists near the middle of your body, keep 1 fist (palm face down) above the other (palm face down) with a small gap, like holding a ball.
+- Posture: Similar to [吸] - Both hands in form of fists near the middle of your body, keep 1 fist (palm face down) above the other (palm face up) with a small gap, like holding a ball.
 
 ## Resolve Attacks
 - If a player was attacked by another player, their status and moves are resolved to see if their defense stands
@@ -221,7 +221,7 @@ Name: 吸拳
 ### C. Check move used by the target player
 - If the target player uses a non-attack move, resolve the attack against protection, reflection, absorption, or out-of-range movement.
 - If the target player uses an attack against a 3rd player (not the attacker), the target player has no guard and can be hit if in range.
-- If the target player also attacks the attacker, the 2 attacks collide, regardless of range:
+- If the target player also attacks the attacker, the two attacks collide, regardless of range:
   - If both attacks have the same energy cost, both cancel out. Both attacks count as successful and both players pay their energy costs.
   - If 1 attack has a higher energy cost, that attack wins and the player with the lower-cost attack is hit (and faints).
 
