@@ -9,7 +9,7 @@
 - Become the last man standing to win the game.
 
 ### Setup
-- Form 1 big circle with all players.
+- Form one big circle with all players.
 - Hold both hands out in front of your chest.
 - Put your right palm down on top of the left palm of the player on your right. Put your left palm up below the right palm of the player on your left.
 - If only 2 players remain, face each other. Put your palms on top of or below the other player's opposite palm.
