@@ -1,7 +1,7 @@
 # 橫(橫閃)
 橫(橫閃) is an in-person multi-player battle game from the 2000's, "007入子彈"-style, designed by a group of primary school kids.
 
-## Rules
+## How to Play
 - 2+ players.
 - Rock-paper-scissors flow. Players choose a move, show the move at the same time, and resolve actions.
 - The goal is to hit other players with attacks and avoid hits to stay alive.
