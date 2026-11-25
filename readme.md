@@ -23,9 +23,7 @@ Everyone syncs their rhythm. This game is a rhythmic battle.
    - Say "橫".
    - Touch the palms of the adjacent player(s) at the same time.
 2. Pick 1 move for the turn:
-   - Say the move name and do the move posture to use the move correctly.
-   - For a non-attack move, you may omit saying the name, especially during fast play. 
-   - For an attack move, you must say the name of an attack move out loud.
+   - Say the move name out loud, and do the move posture to use the move correctly.
    - For an attack move, point the attack posture at 1 target player. An attack cannot target more than 1 player.
    - Move name and the posture must match. If they do not match, the move fails.
    - Verify you have enough energy to pay the attack cost. If you do not have enough energy, the move fails.
@@ -234,3 +232,4 @@ If a player was targeted by another player with an attack, check the attacker an
 ## Advanced Rules
 - In a 2-team battle where 1 team has 1 fewer player, before the game begins, 1 selected player on the smaller team can start with 2 lives (can withstand 1 attack) so both teams have the same total lives.
 - In a 2-team battle, friendly fire is on by default.
+- When only a few players remain, the game can become fast paced. During intense play, you can omit saying "橫". You can also omit the names of non-attack moves. However, you must always say the name of an attack move aloud.
