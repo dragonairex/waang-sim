@@ -80,6 +80,12 @@ Name: 普揼 (Alias: 普鑿)
 - Range: +0/-1
 - Posture: Hold one fist out with the fist pointing down.
 
+Name: 黑龍
+- Type: Ha[波]
+- Energy: 2
+- Range: +0/-0 (Hits same level)
+- Posture: Same as [龜] - Make a KameHame-Ha hand gesture. Join 2 open-finger palms at the wrists, 1 palm up and 1 palm down.
+
 Name: 上上波
 - Type: Ha[波]
 - Energy: 2
