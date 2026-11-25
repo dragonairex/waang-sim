@@ -37,8 +37,8 @@ Everyone syncs their rhythm. This game is a rhythmic battle.
 
 
 ## Playing Field
-- The playing field consists of levels: ground([地面], level 0), upper levels called Heaven[天堂] (1 to 999 and higher), and lower levels called Hell[地獄] (-1 to -999 and lower).
-- Count ground level [地面] (0) as 1 level when you calculate distance.
+- The playing field consists of levels: Ground([地面], level 0), upper levels called Heaven[天堂] (level 1 to 999 and higher), and lower levels called Hell[地獄] (level -1 to -999 and lower).
+- Count Ground([地面], level 0) as 1 level when you calculate distance.
 
 ## Moves
 
